@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Raj Bhurtel 👋<br><br>
 
-💻 Full-Stack Developer | 🤖 Embedded Systems & Robotics<br>
+💻 Data Enthusiast & web developer | tech explorer | 🤖 Embedded Systems & Robotics<br>
 🚀 Startup Founder | 📈 Investor & Beginner Trader<br>
 👕 Founder of Elysian Official and Bastra Ladies Wear<br>
 📍 Nepal 🇳🇵<br><br>
